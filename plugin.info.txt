@@ -1,0 +1,7 @@
+base   flashit
+author Anders H. Jarmund
+email  ajarmund@gmail.com
+date   2020-05-13
+name   flashit plugin
+desc   Make flashcards from your pages
+url    http://www.dokuwiki.org/plugin:iframe
